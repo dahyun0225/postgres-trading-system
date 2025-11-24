@@ -123,7 +123,6 @@ It demonstrates real-world skills including:
 ## Author
 
 **Dahyeon Choi**  
-Data Science, Simon Fraser University  
 Aug, 2025
 
 ---
@@ -256,5 +255,4 @@ PostgreSQL의 트랜잭션을 활용해
 ## 작성자
 
 **최다현 (Dahyeon Choi)**  
-Simon Fraser University – Data Science  
 Aug, 2025
